@@ -1,7 +1,7 @@
 
-## 2. Create `LICENSE`
+## Final `LICENSE`
 
-In the same root folder, create a separate file:
+The `LICENSE` file should contain only this text—do not include Markdown headings or code fences inside the actual file:
 
 ```text
 MIT License
